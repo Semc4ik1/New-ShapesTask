@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ShapesTask": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Семён\\1.txt\" "
+    }
+  }
+}
